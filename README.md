@@ -21,7 +21,7 @@
 
 ![image](https://user-images.githubusercontent.com/63836841/118343879-6e944800-b4f9-11eb-92f3-7592372e5204.png)
 
-🔴 Test it on jenkins 
+🔴 Test it on jenkins. 
 
 
 ![image](https://user-images.githubusercontent.com/63836841/118343902-9388bb00-b4f9-11eb-996d-19d64b9b04eb.png)
