@@ -1,5 +1,5 @@
 # Maven-App 
-![Brown Health and Wellness Yoga Class LinkedIn Banner](https://user-images.githubusercontent.com/63836841/118343784-e9109800-b4f8-11eb-8a32-0912d9a3e33a.png)
+
 
 
 <h2 align="center">Testing Webhook integration between jenkins and GitHub </h2>
